@@ -14,14 +14,6 @@ Currently, I’m exploring advanced patterns in .NET, Entity Framework, and clou
 <a href="https://t.me/engSami1"> <img alt="Telegram" title="Join my technical Telegram channel" src="https://img.shields.io/badge/Telegram-@engSami1-26A5E4?style=for-the-badge&logo=telegram&logoColor=white"/> </a> </p>
 🧰 Languages and Tools
 <img align="left" alt="C#" width="36px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg"/> <img align="left" alt=".NET" width="36px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-original.svg"/> <img align="left" alt="ASP.NET Core" width="36px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg"/> <img align="left" alt="SQL Server" width="36px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg"/> <img align="left" alt="Visual Studio" width="36px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg"/> <img align="left" alt="HTML" width="36px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg"/> <img align="left" alt="CSS" width="36px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg"/> <img align="left" alt="JavaScript" width="36px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg"/> <img align="left" alt="Git" width="36px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"/> <img align="left" alt="GitHub" width="36px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg"/> <img align="left" alt="Linux" width="36px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg"/> <img align="left" alt="xUnit" width="36px" style="padding-right:10px;" src="https://avatars.githubusercontent.com/u/4999608?s=200&v=4"/> <br/>
-🚀 Featured Project
-
-Splendore Store — MVP
-A fully functional ASP.NET Core MVC application developed from concept to deployment.
-It features RESTful APIs, SQL Server database integration, automated testing (xUnit), and data seeding automation.
-Developed independently as a full software solution — from requirements gathering to implementation and testing.
-
-🔗 Coming soon on my GitHub portfolio.
 
 📊 GitHub Stats
 
