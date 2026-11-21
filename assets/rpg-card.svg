@@ -53,10 +53,10 @@
   <text x="128" y="41" class="sans name">Sami Awadh</text>
   
   <rect x="128" y="49" width="136" height="19" rx="4" fill="#1d1e2b" stroke="#bd93f9" stroke-width="0.8" stroke-opacity="0.5" />
-  <text x="196" y="62" text-anchor="middle" class="mono class-badge">Code Mercenary</text>
+  <text x="196" y="62" text-anchor="middle" class="mono class-badge">Cyber Paladin</text>
 
   <rect x="270" y="49" width="88" height="19" rx="4" fill="#1d1e2b" stroke="#ff79c6" stroke-width="0.8" stroke-opacity="0.6" />
-  <text x="314" y="62" text-anchor="middle" class="mono" fill="#f8f8f2" font-size="9" font-weight="800">WPN: POLYGLO</text>
+  <text x="314" y="62" text-anchor="middle" class="mono" fill="#f8f8f2" font-size="9" font-weight="800">WPN: C#</text>
 
   <polygon points="409,16 441,31 441,66 409,81 377,66 377,31" fill="#1d1e2b" stroke="#bd93f9" stroke-width="2" />
   <text x="409" y="34" text-anchor="middle" class="mono ovr-lbl">OVR</text>
